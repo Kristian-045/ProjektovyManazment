@@ -1,2 +1,3 @@
 externa zmena
 jeej
+tomasov riadok
